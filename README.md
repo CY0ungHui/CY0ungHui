@@ -8,8 +8,8 @@
 width="800"  height="3">
 
 
-###👋 Hello! I'm CY0ung_Hui
-—VisualTechStudio创始人
+👋 Hello! I'm CY0ung_Hui
+-VisualTechStudio创始人
 -🛠️ 技术栈
 - 前端：HTML5 JavaScript CSS3
 - 后端：Java C++ Python
