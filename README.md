@@ -1,41 +1,29 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<div align="center">
 
-<head>
-  <meta charset="UTF-8">
-</head>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=追求源于热爱，极致成就梦想。;
 
-<body>
-  <div class="section">
-    <h1>👋 Hello! I'm CY0ung_Hui</h1>
-    <p>VisualTechStudio创始人</p>
-  </div>
 
-  <div class="section">
-    <h2>🛠️ 技术栈</h2>
-    <ul>
-      <li>前端：JavaScript、HTML5/CSS3</li>
-      <li>后端：Java、C++、Python</li>
-      <li>数据库：MySQL</li>
-      <li>其他：Git、Docker</li>
-    </ul>
-  </div>
 
-  <div class="section">
-    <h2>🌟 开源项目</h2>
-    <ul>
-      <li>
-        <a href="https://github.com/NTCloud/DownLoad">下载站</a>
-      </li>
-    </ul>
-  </div>
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+width="800"  height="3">
 
-  <div class="section">
-    <h2>📫 联系我</h2>
-    <p>欢迎交流合作：
-      577515309@qq.com
-    </p>
-  </div>
-</body>
 
-</html>
+###👋 Hello! I'm CY0ung_Hui
+—VisualTechStudio创始人
+-🛠️ 技术栈
+- 前端：HTML5 JavaScript CSS3
+- 后端：Java C++ Python
+- 其他：Docker Git
+- 📫 联系我: 577515309@qq.com | [Blog](https://vtstudio.space) | [Download](https://dl.vtstudio.space)
+
+
+![](https://github-readme-stats.vercel.app/api?username=CY0ungHui&show_icons=true&theme=transparent)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/CY0ungHui/count.svg) visitor,Thank You!
+
+</div>
+
+### My Skill Set
+
+![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,linux,docker,kubernetes,elasticsearch,git,gitlab,mongodb,mysql,redis,nginx,vscode,obsidian,wordpress&theme=dark)
+
